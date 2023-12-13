@@ -1,0 +1,47 @@
+body {
+	font-family: 'YakuHanJPs_Noto', 'Noto Sans', 'Noto Sans JP', sans-serif;
+}
+
+body h1 {
+	font-feature-settings: "palt";
+	font-size: 2rem;
+	line-height: calc(0.25rem * 13);
+}
+
+body h2 {
+	font-feature-settings: "palt";
+	font-size: 1.75rem;
+	line-height: calc(0.25rem * 12);
+}
+
+body h3 {
+	font-feature-settings: "palt";
+	font-size: 1.5rem;
+	line-height: calc(0.25rem * 10);
+}
+
+body h4 {
+	font-feature-settings: "palt";
+	font-size: 1.3125rem;
+	line-height: calc(0.25rem * 9);
+}
+
+body h5 {
+	font-feature-settings: "palt";
+	font-size: 1.125rem;
+	line-height: calc(0.25rem * 8);
+}
+
+body h6 {
+	font-feature-settings: "palt";
+	font-size: 0.875rem;
+	line-height: calc(0.25rem * 6);
+}
+
+body p {
+	hyphens: auto;
+	line-break: strict;
+	overflow-wrap: break-word;
+	word-break: break-word font-size: 1.1rem;
+	line-height: calc(0.25rem * 7);
+}
